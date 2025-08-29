@@ -1,13 +1,11 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'YourName'
+author 'spy5919'
 description 'Illegal Doctor Script for QBCore'
 version '1.0.0'
 
----shared_scripts {
-   -- 'config.lua'
----}
+
 
 client_scripts {
     'client.lua'
@@ -17,8 +15,5 @@ server_scripts {
     'server.lua'
 }
 
---dependencies {
-  --  'qb-core',
-    --'qb-target',
-    --'qb-hospital'
---}
+
+
